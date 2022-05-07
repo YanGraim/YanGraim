@@ -5,6 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=YanGraim&show_icons=true&theme=dark)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGraim&layout=compact&langs_count=7&theme=dark"/>
 
 ### Tecnologias em constante aprendizado 
 <div style = "display: inline_block"><br/>
