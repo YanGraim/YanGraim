@@ -29,9 +29,7 @@ Estou sempre aprendendo e buscando me aprimorar como desenvolvedor.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=yangraim&show_icons=true&theme=blueberry" alt="Yan GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yangraim&theme=blueberry" alt="Yan GitHub Streak" />
-</p>
-
-
+</div>
