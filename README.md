@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Sobre mim:
 Prazer, Yan Graim.<br>Sou desenvolvedor de software com experiência em desenvolvimento front-end.<br>
-Atualmente atuo como trainee na **Gruppe Tecnologia**, trabalhando com React e tecnologias modernas do ecossistema web.<br><br>
+Atualmente atuo como desenvolvedor junior na **Gruppe Tecnologia**, trabalhando com React e tecnologias modernas do ecossistema web.<br><br>
 Estou sempre aprendendo e buscando me aprimorar como desenvolvedor.
 
 ---
